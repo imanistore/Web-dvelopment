@@ -24,6 +24,7 @@ section {
 }
 .logo p {
   color: #ffffff;
+  background-color: transparent;
 }
 .form-color {
   width: 100;
